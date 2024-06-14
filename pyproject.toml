@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-hh-image-selector"
+description = "comfuio custom node that returns an image from a batch based on selected criteria such as RGB value, brightness, etc (credits to chris goringe's custom nodes tutorial )."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/haohaocreates/ComfyUI-HH-Image-Selector"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-HH-Image-Selector"
+Icon = ""
