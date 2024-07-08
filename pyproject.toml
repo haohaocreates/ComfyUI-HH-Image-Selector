@@ -9,6 +9,6 @@ Repository = "https://github.com/haohaocreates/ComfyUI-HH-Image-Selector"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "haohaocreatess"
 DisplayName = "ComfyUI-HH-Image-Selector"
 Icon = ""
